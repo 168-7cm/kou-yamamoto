@@ -1,16 +1,14 @@
-### Hi there 👋
+### About me
+- name: Kou Yamamoto
+- Occupation: Waseda University School of Law
+- Blog: [yamamotoBlog](https://yamamtoblog.com/)
+- Portfolio: [まとめ for WACK](https://apps.apple.com/jp/app/wack-%E3%81%BE%E3%81%A8%E3%82%81/id1572274962)
 
-<!--
-**kou-yamamoto/kou-yamamoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My GitHub works 
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kou-yamamoto&layout=compact&show_icons=true"/>
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=kou-yamamoto&show_icons=ture"/>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Github Profile Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=kou-yamamoto&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)

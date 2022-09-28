@@ -1,6 +1,6 @@
 ### About me
 - name: Kou Yamamoto
-- Occupation: Waseda University School of Law
+- Occupation: Waseda University Law
 - Blog: [yamamotoBlog](https://yamamtoblog.com/)
 - Portfolio: [まとめ for WACK](https://apps.apple.com/jp/app/wack-%E3%81%BE%E3%81%A8%E3%82%81/id1572274962)
 
